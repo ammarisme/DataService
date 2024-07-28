@@ -1,5 +1,5 @@
 
-# Relational Database Service
+# Relational Database Service (C#)
 This project is a backend system written in C# that allows querying a database directly from the frontend by manipulating the GET and POST parameters. The system is designed to handle various types of database queries and provides a flexible API for frontend interaction.
 
 ---
